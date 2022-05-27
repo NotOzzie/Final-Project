@@ -102,3 +102,11 @@ body {
 .cuicon {
     height: 50px;
 }
+
+.warning {
+    color: red
+}
+
+.hidden {
+    display: none !important;
+}
